@@ -1,10 +1,11 @@
 Dimension by HTML5 UP
 
 Swapan's personal page
+
+
 Credits:
 
-AJ
-aj@lkn.io | @ajlkn
+aj@lkn.io  @ajlkn
 
 
 Credits:
