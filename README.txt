@@ -3,9 +3,7 @@ Dimension by HTML5 UP
 Swapan's personal page
 
 
-Credits:
 
-aj@lkn.io  @ajlkn
 
 
 Credits:
